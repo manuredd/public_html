@@ -1,0 +1,41 @@
+/* basic styling to the entire body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* paragraphs */
+p {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+/* image */
+img {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
+/* video player */
+video {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #333;
+    border-radius: 5px;
+}
+
+/* link */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+/* Change link color on hover */
+a:hover {
+    color: #0056b3;
+}
